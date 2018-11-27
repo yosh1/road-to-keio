@@ -5,14 +5,6 @@ It is repository that I am studying mathematics .
 
 ## Markdownにおける数式の書き方
 
-### ツール
-
-https://www.codecogs.com/latex/eqneditor.php
-
-### 参考
-
-http://idken.net/posts/2017-02-28-math_github/
-
 ### 入力例
 
 ```
@@ -68,3 +60,15 @@ http://idken.net/posts/2017-02-28-math_github/
 に含まれる周波数
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;F_s\frac{n}{N}" />
 の振幅を得ることができます。
+
+### 備考
+
+文章中の数式はCODECOGSでinline指定をすると小さく表示できる。
+
+### ツール
+
+https://www.codecogs.com/latex/eqneditor.php
+
+### 参考
+
+http://idken.net/posts/2017-02-28-math_github/
