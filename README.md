@@ -72,3 +72,22 @@ https://www.codecogs.com/latex/eqneditor.php
 ### 参考
 
 http://idken.net/posts/2017-02-28-math_github/
+
+
+### Test
+
+<math>
+    <mfrac>
+        <mrow>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mn>1</mn>
+        </mrow>
+        <mn>3</mn>
+    </mfrac>
+    <mo>+</mo>
+    <mfrac>
+        <mn>2</mn>
+        <mn>7</mn>
+    </mfrac>
+</math>
