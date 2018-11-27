@@ -5,11 +5,15 @@ It is repository that I am studying mathematics .
 
 ## Markdownにおける数式の書き方
 
-ツール :  https://www.codecogs.com/latex/eqneditor.php
+### ツール
 
-参考 : http://idken.net/posts/2017-02-28-math_github/
+https://www.codecogs.com/latex/eqneditor.php
 
-入力例 : 
+### 参考
+
+http://idken.net/posts/2017-02-28-math_github/
+
+### 入力例
 
 ```
 受光した信号を
@@ -38,7 +42,7 @@ It is repository that I am studying mathematics .
 の振幅を得ることができます。
 ```
 
-出力例 : 
+### 出力例
 
 受光した信号を
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;x[k]\&space;(k=1&space;\dots&space;N)" />
