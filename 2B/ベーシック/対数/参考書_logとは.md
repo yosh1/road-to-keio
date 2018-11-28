@@ -17,7 +17,7 @@
 この
 <img src="https://latex.codecogs.com/gif.latex?x"/>
 を<img src="https://latex.codecogs.com/gif.latex?x=log_a{b}"/>
-と表現する!
+と表現する。
 
 
 ## 例
