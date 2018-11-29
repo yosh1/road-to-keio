@@ -1,4 +1,4 @@
-# mathematics-studying
+# studying-for-exam
 It is repository that I am studying mathematics . 
 
 ---
