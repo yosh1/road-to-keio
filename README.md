@@ -1,5 +1,4 @@
-# studying-for-exam
-It is repository that I am studying mathematics . 
+# Road to Keio
 
 ---
 
